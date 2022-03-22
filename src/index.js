@@ -9,7 +9,8 @@ import "mdbreact/dist/css/mdb.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import { BrowserRouter as Router } from "react-router-dom";
 
-axios.defaults.baseURL = 'https://desafio-final-backend.herokuapp.com/api';
+axios.defaults.baseURL = 'https://git.heroku.com/ecommercebacktest.git';
+// axios.defaults.baseURL = 'https://desafio-final-backend.herokuapp.com/api';
 // axios.defaults.baseURL = 'http://localhost:4000/api';
 
 ReactDOM.render(
